@@ -1,0 +1,24 @@
+# Archivos de sistema operativo (Windows y macOS)
+Thumbs.db
+thumbs.db
+ehthumbs.db
+Desktop.ini
+desktop.ini
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Archivos temporales, logs y de respaldo
+*.tmp
+*.temp
+*.bak
+*.log
+*.pdf
+*.zip
+*.rar
+*.7z
+
+# Archivos de editores e IDEs
+.vscode/
+.idea/
+*.swp
